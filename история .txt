@@ -1,0 +1,29 @@
+-Когда Adobe впервые презентовал разработку Adobe XD?
+В ноябре 2014
+В декабре 2016 
+В октябре 2015
+В июле 2015
+*3
+-Для какого учторойства была выпущена первая общедоступная бета-версия?
+Windows 10
+macOS
+Android
+*2
+-В каком году была выпущена бета-версия Adobe XD для Windows 10?
+23 января 2015
+31 апреля 2017
+13 сентября 2016
+13 декабря 2016
+*4
+-Для каких Adobe XD создает пользовательские интерфейсы?
+Мобильных 
+Веб-приложений 
+Все перечисленные 
+*3
+-Через какие приложения Adobe XD поддерживается и может открывать файлы?
+Illustrator,Photoshop,After Effects,Photoshop Sketch 
+After Effects,Photoshop,Adobe Dreamweaver 
+Photoshop Sketch,Adobe Flash 
+After Effects
+Adobe Dreamweaver
+*1

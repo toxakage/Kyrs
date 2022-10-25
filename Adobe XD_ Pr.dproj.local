@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.768,E:\Delphi\Курсач\Port.pas=E:\Delphi\Курсач\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.713,=E:\Delphi\Курсач\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.768,E:\Delphi\Курсач\Port.dfm=E:\Delphi\Курсач\Unit2.dfm</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="history"/>
+    <File Path="history\History.pas"/>
+    <File Path="history\History.dfm"/>
+    <File Path="Author.pas"/>
+    <File Path="Author.dfm"/>
+    <File Path="ChoiseTest.pas"/>
+    <File Path="ChoiseTest.dfm"/>
+    <File Path="Education.pas"/>
+    <File Path="Education.dfm"/>
+    <File Path="Main.pas"/>
+    <File Path="Main.dfm"/>
+    <File Path="Port.pas"/>
+    <File Path="Port.dfm"/>
+    <File Path="Portfolio.pas"/>
+    <File Path="Portfolio.dfm"/>
+    <File Path="Test.pas"/>
+    <File Path="Test.dfm"/>
+    <File Path="TextCreation.pas"/>
+    <File Path="TextCreation.dfm"/>
+    <File Path="Video.pas"/>
+    <File Path="Video.dfm"/>
+    <File Path="Загрузка.pas"/>
+    <File Path="Загрузка.dfm"/>
+  </ProjectSortOrder>
+</BorlandProject>

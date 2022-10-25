@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<map xmlns:xsi="http://www.w3.org/2001/XInclude">
+  <topicref type="topic" id="447381935352318" build="ALL" modified="2022-06-26T02:40:52.645Z" icon="0" href="Introduction">
+    <caption translate="true">Справка</caption>
+    <topicref type="topic" id="447381724719316" build="ALL" modified="2022-06-27T01:41:26.528Z" icon="0" href="Welcome-topic">
+      <caption translate="true">О программе</caption>
+    </topicref>
+  </topicref>
+</map>
